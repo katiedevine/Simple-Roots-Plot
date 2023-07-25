@@ -1,4 +1,6 @@
-# Question 6
+# simple_roots_plot
+
+# this program is designed to plot a simply function on an y-x grid and determine its roots
 
 import numpy as np
 import matplotlib.pyplot as plt
